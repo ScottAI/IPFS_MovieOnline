@@ -2,6 +2,10 @@
 
 本项目是ZeroNet上的一个视频网站，未来预期加入弹幕以及自主提交视频hash等功能：）欢迎大家Pull Request。
 
+![](ScreenShot.png)
+
+
+
 目前最需要解决的：
 
 1. zeronet的API调用
