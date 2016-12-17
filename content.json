@@ -6,6 +6,10 @@
  "cloned_from": "1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
  "description": "\u5728\u7ebf\u89c2\u770b\u5b58\u50a8\u5728IPFS\u4e0a\u7684\u7535\u5f71",
  "files": {
+  "README.md": {
+   "sha512": "60f0059ceb3d09731e7d80d821336c1749cd29d32adaf85a2743ee62bca02982",
+   "size": 723
+  },
   "css/bootstrap-theme.css": {
    "sha512": "1efa835512ab92e43894bed64280c703f59b0223c40974576457ca09ca3d1e3b",
    "size": 21740
@@ -75,8 +79,8 @@
    "size": 23320
   },
   "index.html": {
-   "sha512": "7c5b9f12e9e8fa51582e9373afde1cb4c915d5d292d5aa2aabc7a9ec0d015854",
-   "size": 8804
+   "sha512": "269bf9896e305f3fcc1a25b2ab359cba52e33725506c34cc2ee8ff57172ac2e7",
+   "size": 8860
   },
   "js/ZeroFrame.js": {
    "sha512": "090a43d18dcd1aa836b0d160631fe958f9fabd761af712e8eed6f7e010c0dd76",
@@ -171,17 +175,17 @@
    "size": 165068
   }
  },
- "ignore": "",
+ "ignore": "ScreenShot.png",
  "inner_path": "content.json",
- "modified": 1481899861.434,
+ "modified": 1481940608.709,
  "postmessage_nonce_security": true,
  "sign": [
-  61470508769592312407965203237453802121840911431042705013108238279426333752236,
-  110118718825246810570094711106896254731353662457207867857908077968757587954984
+  11750255692302765764918710700236808830639638270391488823005163556843388013376,
+  76595565951028965855072048795003152912891965120973151368379961921072864031659
  ],
  "signers_sign": "G2TfUY7ObGrSBD7YFsMXqNCFyHHbzJbiEeJ0Aa6jveZIWbf5UvcKOkuYEgn+i+V/8tXkoJJ5Wa4QMF5vwsMxXQI=",
  "signs": {
-  "1FdEWyVHmhbwRZ3u3LmkVGQ9ei7HTcdzU7": "HOxAtHavWlmm4PR8YLlz4LhE2+MsJ507hwF12n7nhi4ulY1z0pcWdUisR8D0EjHGkbnyvVe6rpxgKpMVn6FvAPY="
+  "1FdEWyVHmhbwRZ3u3LmkVGQ9ei7HTcdzU7": "G+QE7Aq4vyYVC/vyh9NYnTCYENo3U/frGUNgVdzelHM85HeSYm9Chd/LaUjQXLYn+pExSk5C8pp/myMTwyuXpRA="
  },
  "signs_required": 1,
  "title": "\u5728\u7ebf\u5f71\u9662",
