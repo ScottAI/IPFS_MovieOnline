@@ -2,6 +2,8 @@
 
 本项目是ZeroNet上的一个视频网站，未来预期加入弹幕以及自主提交视频hash等功能：）欢迎大家Pull Request。
 
+地址:[http://127.0.0.1:43110/1FdEWyVHmhbwRZ3u3LmkVGQ9ei7HTcdzU7](http://127.0.0.1:43110/1FdEWyVHmhbwRZ3u3LmkVGQ9ei7HTcdzU7)
+
 ![](ScreenShot.png)
 
 
