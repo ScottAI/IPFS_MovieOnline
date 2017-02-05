@@ -1,5 +1,11 @@
 # IPFS_MovieOnline
 
+# 本项目目前已被放弃，IPFS在国内复杂网络环境中实在是水土不服，无法达到预期流畅播放效果，因此该项目下线。
+
+# 若是希望日后能在ZeroNet上看片，希望大家能去催促一下nofish@zeroid.bit开发大文件传输功能，谢谢大家的支持
+
+deprect
+
 本项目是ZeroNet上的一个视频网站，未来预期加入弹幕以及自主提交视频hash等功能：）欢迎大家Pull Request。
 
 地址:[http://127.0.0.1:43110/1FdEWyVHmhbwRZ3u3LmkVGQ9ei7HTcdzU7](http://127.0.0.1:43110/1FdEWyVHmhbwRZ3u3LmkVGQ9ei7HTcdzU7)
